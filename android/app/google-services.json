@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "517851479411",
+    "firebase_url": "https://durakta-uyandir-default-rtdb.firebaseio.com",
+    "project_id": "durakta-uyandir",
+    "storage_bucket": "durakta-uyandir.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517851479411:android:4e46a451de2837ed589906",
+        "android_client_info": {
+          "package_name": "com.example.zinkgeldik"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "517851479411-fus256257mq83sjnldf2b7fmileihu13.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCejCxU9SBt9FfTwarY611XQJwHPe0SoE0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "517851479411-fus256257mq83sjnldf2b7fmileihu13.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
